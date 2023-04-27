@@ -20,3 +20,6 @@ node logsLinkPuller.js
 
 ### Results after run:
 ![image](./result.png)
+
+## Note
+This was hacked together in an hour or so, you might need to tinker with it to get it to work.
